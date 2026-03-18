@@ -38,7 +38,6 @@
 
 ## Getting Started
 
-## Getting Started
 
 ### Setup
 
