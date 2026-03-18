@@ -30,9 +30,9 @@
 ## Main Contributions
 
 * A zero-shot pipeline for action-rich multi-subject visual narratives
-* GCA:
-* AB-SVR:
-* SFC:
+* GCA: Gaussian-Centered Attention
+* AB-SVR: Action-Boost Singular Value Reweighting
+* SFC: Selective Forgetting Cache
 
 
 
