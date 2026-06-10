@@ -28,16 +28,18 @@ def main():
 
     id_prompt = 'best quality, high quality, the dog and the cat'
     frame_prompt_list = [
-        'standing, foggy, cloudy, fuzzy on the grass.',
-        'running in a forest.',
-        'jumping high and smile in the beach and ocean beside the forest.',
+        'are dancing and holding hands.',
+        'are fighting with each other, bed.',
+        'are hugging with each other.',
+        'are nestling in living room.',
     ]
     negative_prompt = 'low quality, worst quality, bad anatomy, red color'
 
     action_list = [
-        'standing.',
-        'running.',
-        'jumping.',
+        'dancing.',
+        'fighting.',
+        'hugging.',
+        'nestling.',
     ]
 
     # =========================
