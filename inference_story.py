@@ -14,7 +14,7 @@ def main():
 
     base_model_path = 'models/stable-diffusion-xl-base-1.0'
     image_encoder_path = 'models/CLIP-ViT-bigG-14-laion2B-39B-b160k'
-    ms_adapter_ckpt = 'models/MS-Diffusion/ms_adapter_1.bin'
+    ms_adapter_ckpt = 'models/MS-Diffusion/ms_adapter.bin'
 
 
     image1 = Image.open('./examples/example_cat.jpg')
